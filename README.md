@@ -1,6 +1,6 @@
-# DevInHouse-Modulo1-Projeto2-Completo
+# Projeto React Senai
 
-Projeto desenvolvido para o curso DEVInHouse Clamed do Senai.
+Projeto desenvolvido para o curso DEVInHouse do Senai.
 
 É um protótipo de front-end codificado em React, intitulado PharmacyManagement, voltado para gerenciamento de medicamentos e farmácias.
 
